@@ -2,7 +2,13 @@
 
 #### This is CRUD application learning by doing
 
-| First Header | Second Header |
-| ------------ | ------------- |
-| Content Cell | Content Cell  |
-| Content Cell | Content Cell  |
+| Http method and endpoint | Functionality      |
+| ------------------------ | ------------------ |
+| GET /api/movies          | Get all movies     |
+| GET /api/movies/{id}     | Get movie by id    |
+| POST /api/movies         | Add new movie      |
+|  |
+| DELETE /api/movies/{id}  | Delete movie by id |
+|  |
+
+| PUT /api/movies/{id} | Edit movie by id |
