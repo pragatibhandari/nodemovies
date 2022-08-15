@@ -20,5 +20,6 @@
   "homepage": "https://github.com/pragatibhandari/nodemovies#readme",
   "dependencies": {
     "express": "^4.18.1"
-  }
+  },
+  "devDependencies": {}
 }
