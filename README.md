@@ -1,6 +1,6 @@
-# nodemovies
+# nodemovies a Rest API project
 
-#### This is CRUD application learning by doing
+#### In this application I will be implementing the following CRUD functionalities.
 
 | Http method and endpoint | Functionality      |
 | ------------------------ | ------------------ |
