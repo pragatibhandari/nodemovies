@@ -1,6 +1,6 @@
 # nodemovies a Rest API project
 
-#### In this application I will be implementing the following CRUD functionalities.
+#### In this application I implimented the following CRUD functionalities.
 
 | Http method and endpoint | Functionality      |
 | ------------------------ | ------------------ |
